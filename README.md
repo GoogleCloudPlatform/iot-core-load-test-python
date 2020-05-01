@@ -21,6 +21,10 @@ Following steps are all done on your local environment where the tests will be c
 - Git
 - Python 2.7
 
+Check Python version:
+```bash
+python -V
+```
 Clone the repoistory:
 ```bash
 git clone https://github.com/GoogleCloudPlatform/iot-core-load-test-python.git
